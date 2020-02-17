@@ -6,4 +6,4 @@ At least in Europe, goldsmiths increasingly performed many of the functions now 
 
 wikipedia/metalsmith.md
 wikipedia/blacksmith.md
-wikipedia/silversmith.md
+wikipedia/tinsmith.md
