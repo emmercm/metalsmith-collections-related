@@ -88,12 +88,6 @@ Type: `number` Default: `3`
 
 The number of related files to add to each file's metadata.
 
-### `parallelism` (optional)
-
-Type: `number` Default: the number of logical CPU cores available
-
-The maximum number of async operations at a time.
-
 ## Changelog
 
 [Changelog](./CHANGELOG.md)
