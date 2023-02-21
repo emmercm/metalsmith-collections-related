@@ -1,5 +1,7 @@
 # metalsmith-collections-related
 
+**⚠️ This repistory has been moved to [metalsmith-plugins](https://github.com/emmercm/metalsmith-plugins/tree/main/packages/metalsmith-collections-related). ⚠️**
+
 [![npm Version](https://badgen.net/npm/v/metalsmith-collections-related?icon=npm)](https://www.npmjs.com/package/metalsmith-collections-related)
 [![npm Weekly Downloads](https://badgen.net/npm/dw/metalsmith-collections-related)](https://www.npmjs.com/package/metalsmith-collections-related)
 
